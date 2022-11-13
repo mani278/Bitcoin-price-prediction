@@ -2,7 +2,7 @@
 
 In this project we are going to predict the bitcoin price.
 
-This project is splitted in to 4 parts
+This project is splitted into 4 parts
 
       1. Data preprocessing
       2. Data visulaization
